@@ -1,6 +1,7 @@
 {
-	"author": "Frimpong Osei",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Frimpong Osei",
+	"description": "A project that does something awesome",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
